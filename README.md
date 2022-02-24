@@ -70,7 +70,7 @@ Create a directory '../datasets' for the above three datasets and appropriately 
 
 
 > ### 2. Test
-> Choose apporopriate lines in train.sh file.
+> Choose apporopriate lines in test.sh file.
 > ```bash
 > sh test.sh 
 > ```
